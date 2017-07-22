@@ -1,0 +1,22 @@
+{
+  "name": "leaflet-mapbox-node",
+  "version": "1.0.0",
+  "description": "A map created in leaflet and mapbox as a demo for Gongfucha v2",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VerteDinde/Leaflet-mapbox-node.git"
+  },
+  "author": "Keeley Hammond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VerteDinde/Leaflet-mapbox-node/issues"
+  },
+  "homepage": "https://github.com/VerteDinde/Leaflet-mapbox-node#readme"
+}
