@@ -52481,7 +52481,7 @@
         },
         "properties": {
           "name": "Two Chiefs Lookout",
-          "hike_type": "Hiked With Keeley",
+          "hike_type": "Hiked with Keeley",
           "location": "Washington"
         }
       },
@@ -72103,7 +72103,7 @@
         },
         "properties": {
           "name": "Ridge Trail",
-          "hike-type": "Biked",
+          "hike_type": "Biked",
           "location": "Maryland"
         }
       },
@@ -72366,7 +72366,7 @@
         },
         "properties": {
           "name": "VinelandTrail",
-          "hike-type": "Biked",
+          "hike_type": "Biked",
           "location": "Maryland"
         }
       },
@@ -72574,7 +72574,7 @@
         },
         "properties": {
           "name": "CascadeTrail",
-          "hike-type": "Biked",
+          "hike_type": "Biked",
           "location": "Maryland"
         }
       },
@@ -72667,7 +72667,7 @@
         },
         "properties": {
           "name": "Patapsco Rd",
-          "hike-type": "Biked",
+          "hike_type": "Biked",
           "location": "Maryland"
         }
       },
@@ -72790,7 +72790,7 @@
         },
         "properties": {
           "name": "Railroad Trail",
-          "hike-type": "Biked",
+          "hike_type": "Biked",
           "location": "Maryland"
         }
       },
@@ -73028,7 +73028,7 @@
         },
         "properties": {
           "name": "Buzzards Extension",
-          "hike-type": "Biked",
+          "hike_type": "Biked",
           "location": "Maryland"
         }
       },
@@ -73586,7 +73586,7 @@
         },
         "properties": {
           "name": "Cascade Canyon Trail",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Wyoming"
         }
       },
@@ -73704,7 +73704,7 @@
         },
         "properties": {
           "name": "Jackson Lake Lodge Loop",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Wyoming"
         }
       },
@@ -74207,7 +74207,7 @@
         },
         "properties": {
           "name": "Norris Geyser Basin",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Wyoming"
         }
       },
@@ -74425,7 +74425,7 @@
         },
         "properties": {
           "name": "Uncle Toms Trail",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Wyoming"
         }
       },
@@ -74513,7 +74513,7 @@
         },
         "properties": {
           "name": "Lookout Point",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Wyoming"
         }
       },
@@ -74651,7 +74651,7 @@
         },
         "properties": {
           "name": "Prismatic Spring",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Wyoming"
         }
       },
@@ -74939,7 +74939,7 @@
         },
         "properties": {
           "name": "Old Faithful Basin Trails",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Wyoming"
         }
       },
@@ -75112,7 +75112,7 @@
         },
         "properties": {
           "name": "West Thumb Basin",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Wyoming"
         }
       },
@@ -75260,7 +75260,7 @@
         },
         "properties": {
           "name": "Beehive",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Wyoming"
         }
       },
@@ -75378,7 +75378,7 @@
         },
         "properties": {
           "name": "Bar Harbor",
-          "hike-type": "Biked",
+          "hike_type": "Biked",
           "location": "Maine"
         }
       },
@@ -75466,7 +75466,7 @@
         },
         "properties": {
           "name": "Letchworth",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Rochester"
         }
       },
@@ -75549,7 +75549,7 @@
         },
         "properties": {
           "name": "Letchworth Middle",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Rochester"
         }
       },
@@ -76067,7 +76067,7 @@
         },
         "properties": {
           "name": "Storm Point",
-          "hike-type": "Biked",
+          "hike_type": "Biked",
           "location": "Rochester"
         }
       },
@@ -76220,7 +76220,7 @@
         },
         "properties": {
           "name": "Firehole Falls",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Yosemite"
         }
       },
@@ -76468,7 +76468,7 @@
         },
         "properties": {
           "name": "Dragon Mouth trail",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Yosemite"
         }
       },
@@ -76626,7 +76626,7 @@
         },
         "properties": {
           "name": "Fountain Paint Pots",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Yosemite"
         }
       },
@@ -76709,7 +76709,7 @@
         },
         "properties": {
           "name": "Tower Fall",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Yosemite"
         }
       },
@@ -76787,7 +76787,7 @@
         },
         "properties": {
           "name": "Tenaya Lake",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Yosemite"
         }
       },
@@ -76855,7 +76855,7 @@
         },
         "properties": {
           "name": "Olmstead Point",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Yosemite"
         }
       },
@@ -76943,7 +76943,7 @@
         },
         "properties": {
           "name": "Merced Grove",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Yosemite"
         }
       },
@@ -77051,7 +77051,7 @@
         },
         "properties": {
           "name": "Audobon backdoor",
-          "hike-type": "Hiked with Friends",
+          "hike_type": "Hiked with Friends",
           "location": "Yosemite"
         }
       },
@@ -97965,7 +97965,9 @@
           ]
         },
         "properties": {
-          "name": "WW: F2-F1"
+          "name": "WW: F2-F1",
+          "hike_type": "Hiked with Keeley",
+          "location": "Forest Park"
         }
       },
       {
@@ -104906,7 +104908,9 @@
           ]
         },
         "properties": {
-          "name": "Alder Trail"
+          "name": "Alder Trail",
+          "hike_type": "Hiked with Keeley",
+          "location": "Forest Park"
         }
       },
       {
